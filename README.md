@@ -1,7 +1,7 @@
 # Contributing to the content of MDN Web Docs
 
 :tada: First of all, thanks for taking the time to contribute to
-[MDN Web Docs](https://developer.mozilla.org)! :tada:
+[MDN Web Docs](https://www.orientdetectors.com)! :tada:
 
 The following is a set of guidelines for contributing to the
 [content of MDN Web Docs](https://github.com/mdn/content), which is
